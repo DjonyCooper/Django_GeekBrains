@@ -1,0 +1,206 @@
+Watching for file changes with StatReloader
+C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /about/ HTTP/1.1" 200 28
+"GET / HTTP/1.1" 200 11
+C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\project_for_GB\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed!
+"GET / HTTP/1.1" 200 11
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py", line 14, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+"GET /about/ HTTP/1.1" 200 28
+C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\project_for_GB\settings.py changed, reloading.
+INFO 2024-01-16 14:02:57,615 autoreload 4612 13412 Watching for file changes with StatReloader
+INFO 2024-01-16 14:02:59,849 views 4612 5712 Index page accessed!
+INFO 2024-01-16 14:02:59,850 basehttp 4612 5712 "GET / HTTP/1.1" 200 11
+ERROR 2024-01-16 14:03:06,174 views 4612 18648 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py", line 14, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO 2024-01-16 14:03:06,175 basehttp 4612 18648 "GET /about/ HTTP/1.1" 200 28
+INFO 2024-01-16 14:07:38,115 autoreload 4612 13412 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:07:38,607 autoreload 8048 7016 Watching for file changes with StatReloader
+INFO 2024-01-16 14:07:43,659 views 8048 14272 Index page accessed!
+INFO 2024-01-16 14:07:43,661 basehttp 8048 14272 "GET / HTTP/1.1" 200 11
+INFO 2024-01-16 14:07:55,552 autoreload 8048 7016 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:07:56,037 autoreload 13876 6456 Watching for file changes with StatReloader
+INFO 2024-01-16 14:07:57,846 views 13876 10840 Index page accessed!
+INFO 2024-01-16 14:07:57,847 basehttp 13876 10840 "GET / HTTP/1.1" 200 11
+INFO 2024-01-16 14:08:11,938 autoreload 13876 6456 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:08:12,452 autoreload 11900 18740 Watching for file changes with StatReloader
+INFO 2024-01-16 14:08:14,160 views 11900 19680 Index page accessed!
+INFO 2024-01-16 14:08:14,160 basehttp 11900 19680 "GET / HTTP/1.1" 200 36
+INFO 2024-01-16 14:08:47,813 autoreload 11900 18740 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:08:48,370 autoreload 12552 14700 Watching for file changes with StatReloader
+INFO 2024-01-16 14:09:07,204 autoreload 12552 14700 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:09:07,750 autoreload 14536 7384 Watching for file changes with StatReloader
+INFO 2024-01-16 14:09:09,914 views 14536 6032 Index page accessed!
+INFO 2024-01-16 14:09:09,915 basehttp 14536 6032 "GET / HTTP/1.1" 200 50
+INFO 2024-01-16 14:09:21,487 autoreload 14536 7384 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:09:22,001 autoreload 8128 15084 Watching for file changes with StatReloader
+INFO 2024-01-16 14:10:03,361 autoreload 8128 15084 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:10:03,876 autoreload 12472 20316 Watching for file changes with StatReloader
+INFO 2024-01-16 14:10:07,874 views 12472 16172 Index page accessed!
+INFO 2024-01-16 14:10:07,874 basehttp 12472 16172 "GET / HTTP/1.1" 200 137
+INFO 2024-01-16 14:10:17,621 autoreload 12472 20316 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:10:18,125 autoreload 2268 12556 Watching for file changes with StatReloader
+INFO 2024-01-16 14:10:18,970 views 2268 19108 Index page accessed!
+INFO 2024-01-16 14:10:18,971 basehttp 2268 19108 "GET / HTTP/1.1" 200 137
+INFO 2024-01-16 14:10:45,134 autoreload 2268 12556 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:10:45,646 autoreload 6020 13308 Watching for file changes with StatReloader
+INFO 2024-01-16 14:10:46,669 views 6020 15368 Index page accessed!
+INFO 2024-01-16 14:10:46,670 basehttp 6020 15368 "GET / HTTP/1.1" 200 188
+INFO 2024-01-16 14:11:07,450 autoreload 6020 13308 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:11:07,938 autoreload 1720 15644 Watching for file changes with StatReloader
+INFO 2024-01-16 14:11:46,141 autoreload 1720 15644 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:11:46,686 autoreload 9904 17048 Watching for file changes with StatReloader
+INFO 2024-01-16 14:12:00,297 autoreload 9904 17048 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:12:00,792 autoreload 10376 16608 Watching for file changes with StatReloader
+INFO 2024-01-16 14:12:03,302 views 10376 15960 Index page accessed!
+INFO 2024-01-16 14:12:03,303 basehttp 10376 15960 "GET / HTTP/1.1" 200 238
+INFO 2024-01-16 14:12:42,293 autoreload 10376 16608 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:12:42,788 autoreload 17756 19516 Watching for file changes with StatReloader
+INFO 2024-01-16 14:12:44,577 views 17756 17800 Index page accessed!
+INFO 2024-01-16 14:12:44,578 basehttp 17756 17800 "GET / HTTP/1.1" 200 223
+INFO 2024-01-16 14:13:11,869 autoreload 17756 19516 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:13:12,408 autoreload 17888 10164 Watching for file changes with StatReloader
+INFO 2024-01-16 14:13:13,386 views 17888 11700 Index page accessed!
+INFO 2024-01-16 14:13:13,387 basehttp 17888 11700 "GET / HTTP/1.1" 200 236
+INFO 2024-01-16 14:13:58,790 autoreload 17888 10164 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:13:59,283 autoreload 11644 17676 Watching for file changes with StatReloader
+INFO 2024-01-16 14:14:00,407 views 11644 13096 Index page accessed!
+INFO 2024-01-16 14:14:00,409 basehttp 11644 13096 "GET / HTTP/1.1" 200 342
+INFO 2024-01-16 14:14:13,919 autoreload 11644 17676 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:14:14,424 autoreload 16112 12348 Watching for file changes with StatReloader
+INFO 2024-01-16 14:14:15,868 views 16112 9868 Index page accessed!
+INFO 2024-01-16 14:14:15,869 basehttp 16112 9868 "GET / HTTP/1.1" 200 342
+INFO 2024-01-16 14:15:53,440 autoreload 16112 12348 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:15:53,952 autoreload 7032 19600 Watching for file changes with StatReloader
+INFO 2024-01-16 14:15:57,415 views 7032 15776 Index page accessed!
+INFO 2024-01-16 14:15:57,416 basehttp 7032 15776 "GET / HTTP/1.1" 200 392
+INFO 2024-01-16 14:16:49,845 autoreload 7032 19600 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:16:50,343 autoreload 10396 19692 Watching for file changes with StatReloader
+INFO 2024-01-16 14:16:54,084 views 10396 20332 Index page accessed!
+INFO 2024-01-16 14:16:54,085 basehttp 10396 20332 "GET / HTTP/1.1" 200 408
+INFO 2024-01-16 14:16:55,340 basehttp 10396 14172 code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00-\x00\x02\x01\x01\x00')
+ERROR 2024-01-16 14:16:55,340 basehttp 10396 14172 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2024-01-16 14:16:55,342 basehttp 10396 8020 code 400, message Bad request version (':')
+ERROR 2024-01-16 14:16:55,376 basehttp 10396 18272 You're accessing the development server over HTTPS, but it only supports HTTP.
+ERROR 2024-01-16 14:16:55,376 basehttp 10396 8020 You're accessing the development server over HTTPS, but it only supports HTTP.
+ERROR 2024-01-16 14:16:55,379 basehttp 10396 7568 You're accessing the development server over HTTPS, but it only supports HTTP.
+INFO 2024-01-16 14:17:08,213 autoreload 10396 19692 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:17:08,719 autoreload 2016 17544 Watching for file changes with StatReloader
+INFO 2024-01-16 14:17:12,104 autoreload 2016 17544 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:17:12,599 autoreload 19508 13564 Watching for file changes with StatReloader
+INFO 2024-01-16 14:17:14,689 views 19508 14220 Index page accessed!
+INFO 2024-01-16 14:17:14,691 basehttp 19508 14220 "GET / HTTP/1.1" 200 402
+INFO 2024-01-16 14:17:27,349 autoreload 19508 13564 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:17:27,973 autoreload 19312 548 Watching for file changes with StatReloader
+INFO 2024-01-16 14:17:30,393 views 19312 14068 Index page accessed!
+INFO 2024-01-16 14:17:30,394 basehttp 19312 14068 "GET / HTTP/1.1" 200 407
+INFO 2024-01-16 14:17:48,031 views 19312 6000 Index page accessed!
+INFO 2024-01-16 14:17:48,033 basehttp 19312 6000 "GET / HTTP/1.1" 200 407
+ERROR 2024-01-16 14:17:48,999 views 19312 6000 Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py", line 21, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+INFO 2024-01-16 14:17:49,001 basehttp 19312 6000 "GET /about/ HTTP/1.1" 200 28
+INFO 2024-01-16 14:19:06,774 autoreload 19312 548 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:19:07,386 autoreload 10840 14476 Watching for file changes with StatReloader
+INFO 2024-01-16 14:22:25,824 autoreload 10840 14476 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:22:26,342 autoreload 13704 19852 Watching for file changes with StatReloader
+INFO 2024-01-16 14:23:18,093 autoreload 13704 19852 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:23:18,603 autoreload 13252 1396 Watching for file changes with StatReloader
+INFO 2024-01-16 14:24:07,117 autoreload 13252 1396 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:24:07,625 autoreload 14260 12792 Watching for file changes with StatReloader
+INFO 2024-01-16 14:24:10,556 views 14260 4512 About page accessed!
+INFO 2024-01-16 14:24:10,557 basehttp 14260 4512 "GET /about/ HTTP/1.1" 200 772
+INFO 2024-01-16 14:24:38,805 autoreload 14260 12792 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:24:39,319 autoreload 18452 17084 Watching for file changes with StatReloader
+INFO 2024-01-16 14:24:42,802 views 18452 15628 About page accessed!
+INFO 2024-01-16 14:24:42,803 basehttp 18452 15628 "GET /about/ HTTP/1.1" 200 783
+INFO 2024-01-16 14:27:52,210 autoreload 18452 17084 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:27:52,719 autoreload 7748 12792 Watching for file changes with StatReloader
+INFO 2024-01-16 14:27:55,422 views 7748 16024 About page accessed!
+INFO 2024-01-16 14:27:55,423 basehttp 7748 16024 "GET /about/ HTTP/1.1" 200 793
+INFO 2024-01-16 14:28:07,466 autoreload 7748 12792 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:28:07,973 autoreload 1984 18528 Watching for file changes with StatReloader
+INFO 2024-01-16 14:28:50,415 autoreload 1984 18528 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:28:50,910 autoreload 9652 6936 Watching for file changes with StatReloader
+INFO 2024-01-16 14:28:53,654 views 9652 14320 About page accessed!
+INFO 2024-01-16 14:28:53,655 basehttp 9652 14320 "GET /about/ HTTP/1.1" 200 799
+INFO 2024-01-16 14:30:21,942 views 9652 13776 About page accessed!
+INFO 2024-01-16 14:30:21,943 basehttp 9652 13776 "GET /about/ HTTP/1.1" 200 799
+INFO 2024-01-16 14:30:22,772 autoreload 9652 6936 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:30:23,274 autoreload 12004 13884 Watching for file changes with StatReloader
+INFO 2024-01-16 14:30:26,382 views 12004 18896 About page accessed!
+INFO 2024-01-16 14:30:26,383 basehttp 12004 18896 "GET /about/ HTTP/1.1" 200 833
+INFO 2024-01-16 14:31:18,125 autoreload 12004 13884 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:31:18,629 autoreload 1140 16164 Watching for file changes with StatReloader
+INFO 2024-01-16 14:31:20,188 views 1140 4992 About page accessed!
+INFO 2024-01-16 14:31:20,189 basehttp 1140 4992 "GET /about/ HTTP/1.1" 200 839
+INFO 2024-01-16 14:32:01,080 autoreload 1140 16164 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:32:01,596 autoreload 7748 4100 Watching for file changes with StatReloader
+INFO 2024-01-16 14:32:48,080 autoreload 7748 4100 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:32:48,571 autoreload 18436 17544 Watching for file changes with StatReloader
+INFO 2024-01-16 14:32:59,431 views 18436 15764 About page accessed!
+INFO 2024-01-16 14:32:59,432 basehttp 18436 15764 "GET /about/ HTTP/1.1" 200 824
+INFO 2024-01-16 14:33:49,445 autoreload 18436 17544 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:33:49,968 autoreload 14700 11088 Watching for file changes with StatReloader
+INFO 2024-01-16 14:34:16,964 autoreload 14700 11088 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:34:17,571 autoreload 17276 16888 Watching for file changes with StatReloader
+INFO 2024-01-16 14:34:19,322 views 17276 11300 About page accessed!
+INFO 2024-01-16 14:34:19,322 basehttp 17276 11300 "GET /about/ HTTP/1.1" 200 801
+INFO 2024-01-16 14:34:31,414 autoreload 17276 16888 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:34:31,998 autoreload 2936 12172 Watching for file changes with StatReloader
+INFO 2024-01-16 14:34:32,702 views 2936 548 About page accessed!
+INFO 2024-01-16 14:34:32,703 basehttp 2936 548 "GET /about/ HTTP/1.1" 200 691
+INFO 2024-01-16 14:34:34,193 views 2936 17032 Index page accessed!
+INFO 2024-01-16 14:34:34,193 basehttp 2936 17032 "GET / HTTP/1.1" 200 407
+INFO 2024-01-16 14:34:35,295 views 2936 17032 About page accessed!
+INFO 2024-01-16 14:34:35,296 basehttp 2936 17032 "GET /about/ HTTP/1.1" 200 691
+INFO 2024-01-16 14:34:36,144 views 2936 17032 Index page accessed!
+INFO 2024-01-16 14:34:36,145 basehttp 2936 17032 "GET / HTTP/1.1" 200 407
+INFO 2024-01-16 14:34:37,026 views 2936 17032 About page accessed!
+INFO 2024-01-16 14:34:37,027 basehttp 2936 17032 "GET /about/ HTTP/1.1" 200 691
+INFO 2024-01-16 14:34:38,654 views 2936 17032 Index page accessed!
+INFO 2024-01-16 14:34:38,654 basehttp 2936 17032 "GET / HTTP/1.1" 200 407
+INFO 2024-01-16 14:34:40,157 views 2936 17032 About page accessed!
+INFO 2024-01-16 14:34:40,157 basehttp 2936 17032 "GET /about/ HTTP/1.1" 200 691
+INFO 2024-01-16 14:35:20,332 autoreload 2936 12172 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:35:20,835 autoreload 17752 6264 Watching for file changes with StatReloader
+INFO 2024-01-16 14:35:21,523 views 17752 3868 About page accessed!
+INFO 2024-01-16 14:35:21,524 basehttp 17752 3868 "GET /about/ HTTP/1.1" 200 701
+INFO 2024-01-16 14:35:22,255 views 17752 3868 About page accessed!
+INFO 2024-01-16 14:35:22,256 basehttp 17752 3868 "GET /about/ HTTP/1.1" 200 701
+INFO 2024-01-16 14:35:44,736 autoreload 17752 6264 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:35:45,227 autoreload 15752 6636 Watching for file changes with StatReloader
+INFO 2024-01-16 14:35:46,133 views 15752 9572 About page accessed!
+INFO 2024-01-16 14:35:46,134 basehttp 15752 9572 "GET /about/ HTTP/1.1" 200 662
+INFO 2024-01-16 14:36:40,842 autoreload 15752 6636 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:36:41,353 autoreload 11188 19452 Watching for file changes with StatReloader
+INFO 2024-01-16 14:36:48,330 views 11188 12872 About page accessed!
+INFO 2024-01-16 14:36:48,331 basehttp 11188 12872 "GET /about/ HTTP/1.1" 200 669
+INFO 2024-01-16 14:37:08,389 autoreload 11188 19452 C:\Users\djc\Desktop\Python\Django_GeekBrains\lesson_1\project_for_GB\myapp\views.py changed, reloading.
+INFO 2024-01-16 14:37:08,908 autoreload 6032 15856 Watching for file changes with StatReloader
+INFO 2024-01-16 14:37:10,343 views 6032 15796 About page accessed!
+INFO 2024-01-16 14:37:10,343 basehttp 6032 15796 "GET /about/ HTTP/1.1" 200 670
+INFO 2024-01-16 14:37:14,681 views 6032 16176 Index page accessed!
+INFO 2024-01-16 14:37:14,682 basehttp 6032 16176 "GET / HTTP/1.1" 200 407
+INFO 2024-01-16 14:37:16,843 views 6032 16176 About page accessed!
+INFO 2024-01-16 14:37:16,844 basehttp 6032 16176 "GET /about/ HTTP/1.1" 200 670
+INFO 2024-01-16 14:37:18,595 views 6032 16176 Index page accessed!
+INFO 2024-01-16 14:37:18,595 basehttp 6032 16176 "GET / HTTP/1.1" 200 407
+INFO 2024-01-16 14:37:19,496 views 6032 16176 About page accessed!
+INFO 2024-01-16 14:37:19,497 basehttp 6032 16176 "GET /about/ HTTP/1.1" 200 670
