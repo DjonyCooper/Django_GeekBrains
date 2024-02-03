@@ -92,6 +92,6 @@
 
 <details><summary><h4>Семинар 6. Развёртывание проекта</h4></summary>
 
-✔️ Настроить работу проекта на сервере.
+✔️ Настроить работу проекта на сервере: http://djonycooper.pythonanywhere.com/
 
 </details>
